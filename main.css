@@ -1,0 +1,79 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#f5f5f5ba;  
+    font-family: 'Arial';  
+}  
+.login{  
+        width: 350px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: #ffffff;  
+        border-radius: 15px ; 
+        outline-style: auto;
+        outline-color: #adaaaa; 
+          
+}  
+h2{  
+    text-align: center;  
+    color: #277582;  
+    padding: 20px;  
+}  
+label{  
+    color: #121313;  
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 40px;  
+    border: rgb(0, 0, 0);  
+    border-radius: 3px;  
+    padding-left: 8px;
+    outline-style: auto;
+    outline-color: #adaaaa;
+    text-overflow: clip;  
+}  
+#sign-in{  
+    width: 300px;  
+    height: 40px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+    outline-style: auto;
+    outline-color: #adaaaa;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+  
+  
+}  
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: rgb(255, 255, 255); 
+    padding: 25px;
+    border-radius: 10;
+    border-color: black;
+    border: 1ch;
+} 
+
+#Log1{
+    text-align: center;
+
+}
+
+#Log{
+    text-align: center;
+}
